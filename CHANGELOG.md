@@ -1,7 +1,9 @@
 # Changelog
 
-Gerado automaticamente em 29/10/2026 23:22
+Gerado automaticamente em 29/10/2026 23:23
 
+- 2026-10-29 | Enhance README formatting for GitHub Actions workflows (henriqueesteves0) [22d3c71]
+- 2026-10-29 | docs: update CHANGELOG.md [skip ci] (github-actions[bot]) [e8b50c6]
 - 2026-10-29 | Update README with GitHub Actions workflows (henriqueesteves0) [c3647bb]
 - 2026-10-29 | docs: update CHANGELOG.md [skip ci] (github-actions[bot]) [4467d67]
 - 2026-10-29 | Add GitHub Actions workflow for releasing packages (henriqueesteves0) [7caeb9d]
